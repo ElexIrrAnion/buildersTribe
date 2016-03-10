@@ -1,6 +1,8 @@
 # Parkitect BuildersTribe
 
-A Parkitect Game Modification which offers the ability to:
-* features coming soon
+A Game System Model which offers the ability to:
+* get feature systems
+* get build systems
+* get system systems
 
-(c) Martin 'yokumo' Kelm 2015
+(c) Martin 'Raim' Kelm 2015-2016
