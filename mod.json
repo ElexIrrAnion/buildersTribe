@@ -1,7 +1,0 @@
-{
-    "EntryPoint": "BuildersTribe.Main",
-	"IsDevelopment": true,
-    "IsEnabled": true,
-    "Name": "Builders Tribe",
-    "Project": "BuildersTribe.csproj"
-}
