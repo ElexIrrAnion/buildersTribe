@@ -1,4 +1,4 @@
-# Parkitect BuildersTribe
+# parkitectLab BuildersTribe
 
 A Game System Model which offers the ability to:
 * get feature systems
