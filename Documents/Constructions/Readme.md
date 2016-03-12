@@ -1,4 +1,5 @@
-Constructions Documents  
+Constructions Documents
+=======================
 
 Generating System specified:
 * GS-City-Country-Entry: Comparing to Watching to Catching in Connection to City/Country-Contextes
@@ -7,3 +8,5 @@ Generating System specified:
 * GS-Engine: Watching oriented Processflow-Systemproceduralic Detectionalghorithmication
 * GS-Particles: System-fluential processural Analysable Possibilityfinding for elemental Pointsetting
 * GS-ElexIrr-StoryTelling: Mapable StoryTelling Possibilityfinding for Processoptimization ...
+
+(c) Martin `Raim`Kelm, 2016
