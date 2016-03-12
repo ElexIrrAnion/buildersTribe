@@ -1,8 +1,8 @@
 # BuildersTribe
 
-A Game System Model which offers the ability to:
-* get feature systems
-* get build systems
-* get system systems
+A Construction Expressional System which offers the ability to:
+* develop feature systems
+* develop build systems
+* develop extension system
 
 (c) Martin 'Raim' Kelm 2016
